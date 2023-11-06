@@ -163,6 +163,7 @@
 
       @include respond(tab-port) {
         align-items: center;
+        order: 1;
       }
 
       &-title {
