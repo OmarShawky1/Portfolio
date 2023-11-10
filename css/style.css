@@ -464,6 +464,14 @@ textarea {
     line-height: 1.7;
     color: grey;
     margin-bottom: 2rem; }
+  .project-details__desc-ord-list {
+    font-size: 1.8rem;
+    line-height: 1.7;
+    color: grey;
+    margin-bottom: 2rem;
+    padding: 0 1.6rem; }
+    .project-details__desc-ord-list--decimal {
+      list-style: decimal; }
 
 .project-details__tools-used {
   margin: 0 0 7rem 0; }
